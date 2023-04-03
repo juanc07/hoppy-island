@@ -1,0 +1,20 @@
+[
+	{
+		"Game":
+		{
+			"user_id":"51dc649cfd8978e9d9001013",
+			"name":"Bounce3x",
+			"short_description":"Bounce3x arcade game.",
+			"description":"Bounce3x is cute animal catching Arcade Game.",
+			"game_type":"Arcade",
+			"version":"1",
+			"levels":"none",
+			"platform":"Android,IOS and web",
+			"players_count":1,
+			"scores_count":1,
+			"status":1,
+			"created":"2013-11-19 16:06:34",
+			"updated":"2013-11-19 16:10:15"
+		}
+	}
+]

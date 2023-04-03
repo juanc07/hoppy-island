@@ -1,0 +1,6 @@
+credits screen for your self and composer - ok
+add close button or back on submit score - ok
+mouse controlls for web version
+you beat your best score
+highlight shop button if you can buy item
+make the powerup gauge blink when its about to runout of your power

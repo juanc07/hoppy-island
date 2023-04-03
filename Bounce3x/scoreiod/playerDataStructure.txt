@@ -1,0 +1,43 @@
+[
+	{
+		"Player":
+		{
+			"username":"testplayer1",
+			"unique_id":"testplayer_1",
+			"first_name":"testplayer1",
+			"last_name":"testplayer1",
+			"email":"",
+			"bonus":0,
+			"achievements":"",
+			"gold":"77",
+			"money":0,
+			"kills":0,
+			"lives":0,
+			"time_played":0,
+			"unlocked_levels":"",
+			"unlocked_items":"",
+			"inventory":"",
+			"last_level":"",
+			"current_level":"",
+			"current_time":0,
+			"current_bonus":0,
+			"current_kills":0,
+			"current_achievements":"",
+			"current_gold":0,
+			"current_unlocked_levels":0,
+			"current_unlocked_items":"",
+			"current_lives":0,
+			"xp":"",
+			"energy":"",
+			"boost":"",
+			"latitude":"",
+			"longtitude":"",
+			"game_state":"",
+			"platform":null,
+			"rank":1,
+			"best_score":0,
+			"created":"2013-11-19 16:34:08",
+			"updated":"2013-11-23 13:16:34"
+		}
+	}
+]

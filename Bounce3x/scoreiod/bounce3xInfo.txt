@@ -1,0 +1,2 @@
+apiKey="c8036671faf3234a94f048c3c519fbb80bd3fcd1";
+gameId ="126d94af56";

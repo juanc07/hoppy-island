@@ -1,0 +1,3 @@
+cfg.AppId=a3049c95
+cfg.AppKey=5beff601e9be1606900469966cc6d0f6
+cfg.AppSite=JP
